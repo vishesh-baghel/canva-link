@@ -1,5 +1,5 @@
 {
-  "name": "autobot",
+  "name": "canva-link",
   "version": "1.1.3",
   "description": "Build automated workflows for Canva",
   "main": "index.js",
